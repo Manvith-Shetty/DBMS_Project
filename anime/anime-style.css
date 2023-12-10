@@ -1,0 +1,29 @@
+
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.list-status-display .heading a{
+    text-decoration: none;
+    color: rgb(81, 79, 79);
+    padding: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+table{
+    width: 100% ;
+
+}
+tr{
+    border: 1px solid black;
+}
+
+.heading{
+    display: flex;
+    margin: 0px;
+    justify-content: center;
+    border: 1px solid grey;
+}

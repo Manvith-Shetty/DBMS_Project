@@ -1,0 +1,44 @@
+body{
+    background-color: #ead7ce;
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    margin-top: 5%;
+}
+
+.main-text{
+    padding-top: 6%;
+    margin: 0px;
+    text-align: center;
+    text-shadow: 2px 2px 5px #cb5a1d;
+    font-size: 25px;
+    color: black;
+}
+
+
+.main-text p{
+    padding-top: 30px;
+}
+
+.container img{
+    height: 200px;
+    width: 230px;
+    padding: 0px;
+    margin: 20px;
+    box-shadow: 10px 10px 5px #803710;
+    border: 1px solid #EC8F5E;
+    border-radius: 6%;
+    
+}
+
+
+
